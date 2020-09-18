@@ -24,3 +24,4 @@ Feel free to get in touch with me via <a href="ghassane20a@justdjango.com"><b>em
 <img align="center" src="https://www.codewars.com/users/GhassaneAb/badges/large" alt="Ghassane's Codewars Stats">
   
   </div>
+  </div>
