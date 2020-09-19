@@ -10,7 +10,7 @@ My name is Ghassane. I'm a software developer, Student and entrepreneur. <br /> 
 <div align="center">
 
 I work mainly with Django and React / spring and angular , but I'm still learning new technologies . <br>
-Feel free to get in touch with me via <a href="ghassane20a@justdjango.com"><b>email</b></a>
+Feel free to get in touch with me via <a href="ghassane20a@gmail.com"><b>email</b></a>
 
 
 </div>
