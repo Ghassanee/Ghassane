@@ -26,6 +26,3 @@
   #### My Stacks:
   ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C)  ![badge-python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-php](https://img.shields.io/badge/Language-Php-lightgray?style=for-the-badge&logo=Php) ![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-ts](https://img.shields.io/badge/Language-Typescript-lightblue?style=for-the-badge&logo=Typescript) 
 
-<div align="center" >
-    <img align="center" src="https://www.youracclaim.com/badges/297163f1-6aa5-431b-ac1a-5ff8127deee5/public_url">
-  </div>
