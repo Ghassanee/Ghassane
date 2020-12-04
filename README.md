@@ -4,11 +4,11 @@
 
   <div align="center">
 
-  My name is Ghassane. I'm a software developer, Student and entrepreneur. <br /> I study web development with Django and Spring and am currently still a student.
+  My name is Ghassane. I'm a Junior software developer and entrepreneur. <br /> I work on web development with Django and Spring and I am currently Self-Employed.
   </div>
 
   <div align="center">
-    I work mainly with Django and React / spring and angular , but I'm still learning new technologies . <br>
+    I work mainly with Django and React & Spring and Angular , but I'm still learning new technologies . <br>
     Feel free to get in touch with me via <a href="ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
