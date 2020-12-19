@@ -9,7 +9,7 @@
 
   <div align="center">
     I work mainly with Django and React & Spring and Angular , but I'm still learning new technologies . <br>
-    Feel free to get in touch with me via <a href="ghassane20a@gmail.com"><b>email</b></a>
+    Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
   <div align="center">
