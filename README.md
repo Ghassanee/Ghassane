@@ -1,6 +1,12 @@
   <div align="center">
     <h2>Welcome to my GitHub profile</h2>
   </div>
+  <div align="center">
+
+  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ghassane20a@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aboughazaouat-ghassane/)
+</div>
+
 
   <div align="center">
 
@@ -26,5 +32,14 @@
   ![Profile views](https://gpvc.arturio.dev/Ghassanee)
 
   #### My Stacks:
+  <div  align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassanee&layout=compact" alt="Ghassane's Github Stats">
+  </div>
+  
+  #### 
+  
   ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C)  ![badge-python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-php](https://img.shields.io/badge/Language-Php-lightgray?style=for-the-badge&logo=Php) ![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-ts](https://img.shields.io/badge/Language-Typescript-lightblue?style=for-the-badge&logo=Typescript) 
-
+  
+  
+ 
+   
