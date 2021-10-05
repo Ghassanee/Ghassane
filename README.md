@@ -10,13 +10,13 @@
 
   <div align="center">
 
-  My name is Ghassane. I'm a Junior  Full stack web and mobile developer. <br /> I work on web development with Angular and Spring and with React Native in mobile developmet.
+  My name is Ghassane. I'm a Junior Full stack web and mobile developer. <br /> I work on web development with React and NodeJs and with React Native in mobile developmet.
   </div>
  <div align="center">
   I'm currently in a full time React Native developer.
 </div>
   <div align="center">
-    I work mainly with React Native and Spring, but I'm still learning new technologies. <br>
+    I work mainly with React Native and NodeJs, but I'm still learning new technologies. <br>
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
