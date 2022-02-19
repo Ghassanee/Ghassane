@@ -10,13 +10,14 @@
 
   <div align="center">
 
-  My name is Ghassane. I'm a Junior Full stack web and mobile developer. <br /> I work on web development with React and NodeJs and with React Native in mobile developmet.
+  My name is Ghassane. I'm a Mid Level Full Stack Web, Mobile and Game Developer. <br /> I work on Web Development with React and NodeJs, with React Native in Mobile Developmet and phaserJs in Games Development.
   </div>
  <div align="center">
-  I'm currently in a full time React Native developer.
+  I'm currently in a full time Full Stack Developer.
 </div>
   <div align="center">
     I work mainly with React Native and NodeJs, but I'm still learning new technologies. <br>
+    For Freelance work: <a href="https://www.upwork.com/freelancers/~01d30dd5338846f1e5?viewMode=1"><b>UpWork</b></a>
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
