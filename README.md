@@ -31,7 +31,7 @@
   </div>
 <br/>
   <div align="center" >
-    <a href="http://www.github.com/HidanZZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghassanee" /></a>
+    <a href="http://www.github.com/Ghassanee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghassanee" /></a>
   </div>
   
   ![Profile views](https://gpvc.arturio.dev/Ghassanee)
