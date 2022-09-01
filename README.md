@@ -17,7 +17,12 @@
 </div>
   <div align="center">
     I work mainly with React Native and NodeJs, but I'm still learning new technologies. <br>
-    For Freelance work: <a href="https://www.upwork.com/freelancers/~01d30dd5338846f1e5?viewMode=1"><b>UpWork</b></a><br>
+    For Freelance work:
+    <br>
+    <a href="https://hidanz.dev"><b>HidanzDev</b></a>
+    <br>
+    <a href="https://www.upwork.com/freelancers/~01d30dd5338846f1e5?viewMode=1"><b>UpWork</b></a>
+    <br>
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
