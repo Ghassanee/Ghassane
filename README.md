@@ -26,10 +26,7 @@
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   </div>
 <br/>
-  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanee&&show_icons=true&count_private=true&icon_color=31c48d&text_color=4b5563&%20bg_color=f4f5f7" alt="Ghassane's Github Stats">
-  </div>
-<br/>
+
   
   <div align="center" >
     <img align="center" src="https://www.codewars.com/users/GhassaneAb/badges/large" alt="Ghassane's Codewars Stats">
