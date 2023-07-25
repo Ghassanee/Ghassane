@@ -24,6 +24,25 @@
     <a href="https://www.upwork.com/freelancers/~01d30dd5338846f1e5?viewMode=1"><b>UpWork</b></a>
     <br>
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
+  <br>
+    <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/hidanz rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-beb3d4ff-56a2-4f31-93e8-2adb73d520b0' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >hidanz</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hello i'm Hidanz, 
+
+I'm specialized in game development and I can help you design and develop your in-game experience. I love creating games myself and so can create amazing experiences for your customers.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-beb3d4ff-56a2-4f31-93e8-2adb73d520b0' src='https://widgets.fiverr.com/api/v1/seller/hidanz?widget_id=beb3d4ff-56a2-4f31-93e8-2adb73d520b0' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
   </div>
 <br/>
 
