@@ -19,11 +19,13 @@
     I work mainly with React Native and NodeJs, but I'm still learning new technologies. <br>
     For Freelance work:
     <br>
-    <a href="https://hidanz.dev"><b>HidanzDev</b></a>
+    <a href=" https://github.com/HidanzDev"><b>My Other github account </b></a>
     <br>
-    <a href="https://www.upwork.com/freelancers/~01d30dd5338846f1e5?viewMode=1"><b>UpWork</b></a>
+    <a href="https://hidanz.dev"><b>Website</b></a>
     <br>
-    <a href="https://www.fiverr.com/hidanz"><b>Fiver</b></a>
+    <a href="t.me/HidanzDev"><b>Telegram</b></a>
+    <br>
+    <a href="https://www.fiverr.com/hidanz"><b>Fiverr</b></a>
     <br>
     Feel free to get in touch with me via <a href="mailto:ghassane20a@gmail.com"><b>email</b></a>
   <br>
